@@ -1,3 +1,3 @@
-# www.kamesuta.com-page
+# www.kamesuta.com/docs
 
 かめぱわぁ～るどWebページ
