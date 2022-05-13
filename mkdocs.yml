@@ -1,6 +1,7 @@
 site_name: KamePowerWorldDocs
 theme:
   name: material
+  custom_dir: overrides
   language: ja
   icon:
     logo: material/order-alphabetical-descending
@@ -51,3 +52,5 @@ markdown_extensions:
 extra_javascript:
   - https://cdn.jsdelivr.net/npm/tablesort@5.3.0/dist/tablesort.min.js
   - javascripts/tablesort.js
+  - https://cdnjs.cloudflare.com/ajax/libs/quicklink/2.2.0/quicklink.umd.js
+  - javascripts/quicklink.js
