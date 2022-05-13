@@ -5,6 +5,6 @@ hide:
   - toc
 ---
 
-# ようこそ！ KamePowerWorld の パブリックドキュメントへ
+# ようこそ！KamePowerWorld の パブリックドキュメントへ
 
 ここにはドキュメントが公開されています
