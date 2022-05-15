@@ -48,6 +48,9 @@ markdown_extensions:
   - pymdownx.keys
   - pymdownx.mark
   - pymdownx.tilde
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
 
 extra_javascript:
   - https://cdn.jsdelivr.net/npm/tablesort@5.3.0/dist/tablesort.min.js
