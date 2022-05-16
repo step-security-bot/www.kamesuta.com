@@ -1,4 +1,5 @@
 site_name: KamePowerWorldDocs
+site_url: https://kamesuta.com/docs/
 theme:
   name: material
   custom_dir: overrides
