@@ -5,3 +5,4 @@ Thumbs.db
 .pnpm-store
 *.log
 site
+node_modules
