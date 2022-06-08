@@ -90,3 +90,15 @@ MCID: `murayu0225`
 あくたんのこと好きすぎ ☆
 
 MCID: `yuu_111`
+
+### ![arataku_](https://minotar.net/helm/4a25c68901514a17bd09f9199ce6b5e6/25) arataku
+
+こんにちは～
+
+MCID: `arataku_`
+
+### ![osalu_JOJ](https://minotar.net/helm/64eb5161171d45958414418df6bb5a35/25) るるるじょじ
+
+ジェイオージェイ
+
+MCID: `osalu_JOJ`

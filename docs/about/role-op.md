@@ -5,12 +5,6 @@
 
 ## OP
 
-### ![Kamesuta](https://minotar.net/helm/4f2a29432d954959b53e60cd86edd245/25) Kamesuta
-
-マイクラショート動画毎日投稿してた！
-
-MCID: `Kamesuta`
-
 ### ![Jumala9163](https://minotar.net/helm/6322c0e8bf3c4b6396b02c57aef00dce/25) Donker
 
 よしこ鯖もやってた
@@ -65,3 +59,16 @@ MCID: `yuu_111`
 ~~Hi friends!~~
 
 MCID: `Away_From_K8S`
+
+### ![MoriMori_0317_jp](https://minotar.net/helm/0f286fc20c8642d58518c306cad74f03/25) MORIMORI
+
+たまにMODを翻訳したりしてます。
+バグやガバを発見したやつ、至急、issueくれや。
+
+MCID: `MoriMori_0317_jp`
+
+### ![Els__7f](https://minotar.net/helm/42adea14372f4dcb86aa26e9933aaf14/25) カリッと枝豆
+
+！
+
+MCID: `Els__7f`
